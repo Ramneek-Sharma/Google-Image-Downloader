@@ -27,5 +27,6 @@ python app.py
 * Open a web browser and navigate to http://localhost:___
 
 ## Result
-<img width="602" alt="Screenshot 2024-10-14 at 6 51 03 AM" src="https://github.com/user-attachments/assets/8055cbc6-dd34-440e-9e88-ff95a43e72a1">
 <img width="375" alt="Screenshot 2024-10-14 at 6 49 37 AM" src="https://github.com/user-attachments/assets/ac4851dd-1907-4c1e-912c-3f3636e50640">
+<img width="602" alt="Screenshot 2024-10-14 at 6 51 03 AM" src="https://github.com/user-attachments/assets/8055cbc6-dd34-440e-9e88-ff95a43e72a1">
+
